@@ -1,4 +1,3 @@
-```markdown
 # Crawlee Crawler Project
 
 ## Overview
