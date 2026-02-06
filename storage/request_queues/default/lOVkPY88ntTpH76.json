@@ -1,0 +1,9 @@
+{
+	"id": "lOVkPY88ntTpH76",
+	"json": "{\"id\":\"lOVkPY88ntTpH76\",\"url\":\"https://www.apartments.com/mountain-view-ca/\",\"loadedUrl\":\"https://www.apartments.com/mountain-view-ca/\",\"uniqueKey\":\"https://www.apartments.com/mountain-view-ca\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-02-06T21:42:36.423Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.apartments.com/mountain-view-ca",
+	"url": "https://www.apartments.com/mountain-view-ca/"
+}

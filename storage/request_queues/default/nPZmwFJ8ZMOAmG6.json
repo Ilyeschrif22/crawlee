@@ -1,0 +1,9 @@
+{
+	"id": "nPZmwFJ8ZMOAmG6",
+	"json": "{\"id\":\"nPZmwFJ8ZMOAmG6\",\"url\":\"https://www.apartments.com/rental-manager/list-property-for-rent\",\"loadedUrl\":\"https://www.apartments.com/rental-manager/list-property-for-rent\",\"uniqueKey\":\"https://www.apartments.com/rental-manager/list-property-for-rent\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-02-06T21:43:20.406Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.apartments.com/rental-manager/list-property-for-rent",
+	"url": "https://www.apartments.com/rental-manager/list-property-for-rent"
+}

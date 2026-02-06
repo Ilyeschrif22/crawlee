@@ -1,0 +1,9 @@
+{
+	"id": "fyPp5pxuEZX3w17",
+	"json": "{\"id\":\"fyPp5pxuEZX3w17\",\"url\":\"https://www.apartments.com/san-francisco-ca/\",\"loadedUrl\":\"https://www.apartments.com/san-francisco-ca/\",\"uniqueKey\":\"https://www.apartments.com/san-francisco-ca\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-02-06T21:41:47.329Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.apartments.com/san-francisco-ca",
+	"url": "https://www.apartments.com/san-francisco-ca/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "biZHhnMdrftYv7o",
+	"json": "{\"id\":\"biZHhnMdrftYv7o\",\"url\":\"https://www.apartments.com/my-account/#FavoriteListings\",\"loadedUrl\":\"https://www.apartments.com/my-account/#FavoriteListings\",\"uniqueKey\":\"https://www.apartments.com/my-account\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-02-06T21:42:09.640Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.apartments.com/my-account",
+	"url": "https://www.apartments.com/my-account/#FavoriteListings"
+}
